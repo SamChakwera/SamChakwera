@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/SamChakwera/stchakwera/chat.svg)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/samuel-timothy-chakwera-41075868/))
+[![](https://raw.githubusercontent.com/SamChakwera/stchakwera/main/chat.svg)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/samuel-timothy-chakwera-41075868/)
 
 <!--- Maybe in future
 [![Linkedin Badge](https://img.shields.io/badge/-Artem%20Kulikov-e9e9e9?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kulikov-dev/)](https://www.linkedin.com/in/kulikov-dev/) 
