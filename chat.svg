@@ -299,7 +299,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="510" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Currently I live in Toronto where it’s supposed to be</text>
-    <text x="15" y="50">35° C and <tspan class="emoji">☀️</tspan> today.</text>
+    <text x="15" y="50">25° C and <tspan class="emoji">☀️</tspan> today.</text>
   </g>
 
   <!-- typing 4 -->
