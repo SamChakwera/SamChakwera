@@ -273,9 +273,9 @@
    
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="650" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="630" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a currently looking for new oppurtunites within ML and AI research.</text>
-    <text x="15" y="50">I have 5+ Years working in the UN system doing Data and Statistics</text>
+    <text x="15" y="50">I have 5+ Years working in the UN system doing Data and Statistics.</text>
   </g>
 
   <!-- typing 3 -->
@@ -297,7 +297,7 @@
 
   <!-- From Istanbul... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="510" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Currently I live in Toronto where it’s supposed to be</text>
     <text x="15" y="50">{degC}° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
